@@ -1,0 +1,6 @@
+- Mở sql server, kết nối với máy chủ sau đó sử dụng code trong file database -> excute
+- Sau đó mở visual studio code, ấn vào open project or solution
+- Tiếp theo vào đường dẫn HTQL_CuaHang\HTQL_CuaHang và tìm file HTQL_CuaHang.sln
+
+- Sau khi đã vào được dự án, tìm file app.config để chỉnh lại kết nối với sql
+- RUN.
